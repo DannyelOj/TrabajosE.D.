@@ -22,7 +22,7 @@ public class metodos {
     
     public void llenar() {
         for (int i=0;i<Array.length;i++) {
-            System.out.print("Ingrese un número: " + i);
+            System.out.print("Ingrese un número: " );
             Array[i]=entrada.nextInt();
         }
     }

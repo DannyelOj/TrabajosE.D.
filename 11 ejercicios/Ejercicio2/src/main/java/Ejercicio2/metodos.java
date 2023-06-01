@@ -9,7 +9,7 @@ package Ejercicio2;
  * @author VEL-USER
  */
 public class metodos {
-    int[] Array = new int [] {1,2,3,4,5,6};
+    int[] Array = new int [] {1,5,3,2,7,6};
     int[] Array2 = new int [Array.length];
 
     public long factorial(int n) {

@@ -28,7 +28,7 @@ public class metodos {
 
     public int menu() {
         int opc;
-        System.out.println("\nBIENVENIDOS A AEROLINEAS SAN FRANCISCO\n");
+        System.out.println("\nBIENVENIDOS A AEROLINEAS DANNYEL.ZIP\n");
         System.out.println("Hacer una reserva [1]");
         System.out.println("Cancelar una reserva [2]");
         System.out.println("Salir [0]");
